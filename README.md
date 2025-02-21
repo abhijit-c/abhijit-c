@@ -12,10 +12,12 @@ Towards that end, I'm currently focused on large-scale uncertainty quantificatio
 My Ph.D. research was in that direction, doing so for infinite-dimensional Bayesian inverse problems.
 My goal is to develop scalable algorithms to quantify, analyze, and control the uncertainty inherent in models.
 Also, if I get to play with huge computers along the way, all the better.
-
-<a href="https://github.com/anuraghazra/convoychat">
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-c&layout=compact&theme=gruvbox&hide=rich%20text%20format&count_private=true" />
 </a>
+</div>
+
 <!--
 **abhijit-c/abhijit-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
