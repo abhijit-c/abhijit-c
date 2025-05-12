@@ -6,7 +6,7 @@
 
 I'm Abhijit Chowdhary (Abhi)!
 
-I'm a Ph.D. student in computational mathematics. 
+I'm a postdoctoral researcher in computational mathematics. 
 My research interests lie in wielding math to design algorithms for real-world problems.
 Towards that end, I'm currently focused on large-scale uncertainty quantification tasks.
 My Ph.D. research was in that direction, doing so for infinite-dimensional Bayesian inverse problems.
